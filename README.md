@@ -2,6 +2,17 @@
 
 Welcome to my GitHub! I'm passionate about Artificial Intelligence and contributing to open source communities.
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dadiya-Harsh-wappnet&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+## 📊 Language Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadiya-Harsh-wappnet&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
 ## 👀 I’m Interested In
 - Artificial Intelligence & Machine Learning
 - Open Source Projects
