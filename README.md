@@ -22,6 +22,7 @@ Welcome to my GitHub! I'm passionate about Artificial Intelligence and contribut
 
 ## 🌱 I’m Currently Learning
 - **Apache Spark** for Big Data analytics
+- **MCP Protocol** for AI Integration
 - **Prompt Engineering** and LLM fine-tuning
 - **Kubernetes & Docker** for scalable AI deployments
 
